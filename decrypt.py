@@ -18,4 +18,9 @@ def RSADecrypt(encrypted_data,privatekeyfile):
  return data
  #decrypt
  databack = RSADecrypt("encrypted_data.bin","private.pem")
- print(databack.decode("utf-8"))
+ #print(databack.decode("utf-8"))
+ datadecrypted = databack.decode("utf-8")
+ 
+ f = open("decrypted.txt", "w")
+ f.write(datadecrypted)
+ f.close()
