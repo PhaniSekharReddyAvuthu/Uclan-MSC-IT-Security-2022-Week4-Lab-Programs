@@ -15,11 +15,12 @@ def RSADecrypt(encrypted_data,privatekeyfile):
  # Decrypt the data with the AES session key
  cipher_aes = AES.new(session_key, AES.MODE_EAX, nonce)
  data = cipher_aes.decrypt_and_verify(ciphertext, tag)
+ file_w = open(decrypted.txt, "wb")
+ file_w.write(data)
+ file_w.close() 
  return data
  
  #decrypt
  databack = RSADecrypt("encrypted_data.bin","private.pem")
- #print(databack.decode("utf-8"))
- file_w = open(decrypted.txt, "wb")
- [ file_w.write(x) for x in (databack.decode("utf-8") ]
- file_w.close() 
+ print(databack.decode("utf-8"))
+ 
