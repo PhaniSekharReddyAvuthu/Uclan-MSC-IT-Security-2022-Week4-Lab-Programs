@@ -1,5 +1,7 @@
-#arguments are encrypted data and name of the private key
-#returns the decrypted data
+from Crypto.PublicKey import RSA
+from Crypto.Random import get_random_bytes
+from Crypto.Cipher import AES, PKCS1_OAEP
+
 def RSADecrypt(encrypted_data,privatekeyfile):
 
  file_in = open(encrypted_data, "rb")
@@ -14,6 +16,6 @@ def RSADecrypt(encrypted_data,privatekeyfile):
  cipher_aes = AES.new(session_key, AES.MODE_EAX, nonce)
  data = cipher_aes.decrypt_and_verify(ciphertext, tag)
  return data
-#decrypt
-databack = RSADecrypt("encrypted_data.bin","private.pem")
-print(databack.decode("utf-8"))
+ #decrypt
+ databack = RSADecrypt("encrypted_data.bin","private.pem")
+ print(databack.decode("utf-8"))
