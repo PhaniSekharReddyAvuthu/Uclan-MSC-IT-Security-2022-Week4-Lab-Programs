@@ -18,6 +18,5 @@ def RSAEncrypt(data,publickeyfile,encryptedfile):
 
 
 #encrypt
-data = "This is the message I want to transmit after encrypting with
-rsa".encode("utf-8")
+data = "This is the message I want to transmit after encrypting with rsa".encode("utf-8")
 RSAEncrypt(data,"public.pem","encrypted_data.bin")
