@@ -16,11 +16,12 @@ def RSADecrypt(encrypted_data,privatekeyfile):
  cipher_aes = AES.new(session_key, AES.MODE_EAX, nonce)
  data = cipher_aes.decrypt_and_verify(ciphertext, tag)
  return data
+ 
  #decrypt
  databack = RSADecrypt("encrypted_data.bin","private.pem")
  #print(databack.decode("utf-8"))
  datadecrypted = databack.decode("utf-8")
  
- f = open("decrypted.txt", "w")
+ f = open("decrypted.txt", "wt")
  f.write(datadecrypted)
  f.close()
