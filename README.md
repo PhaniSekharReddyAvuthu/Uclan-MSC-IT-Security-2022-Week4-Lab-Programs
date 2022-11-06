@@ -20,6 +20,8 @@
 
 ![folder](https://user-images.githubusercontent.com/111919907/200188437-4f8a2704-c18b-4f01-9c20-b82c37bca873.png)
 
-9. Type *python<space> filename.py* to execute your file
+9. Type *python<space> filename.py* and then hit enter.
 
 ![folder](https://user-images.githubusercontent.com/111919907/200188568-a02af81e-f1a3-4335-8f8b-1b3bb6606718.png)
+
+10. Once after you hit enter, the program is executed. 
