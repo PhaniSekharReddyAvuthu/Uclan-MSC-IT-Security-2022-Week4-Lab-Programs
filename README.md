@@ -27,3 +27,5 @@
 ![folder](https://user-images.githubusercontent.com/111919907/200188568-a02af81e-f1a3-4335-8f8b-1b3bb6606718.png)
 
 10. Once after you hit enter, the program will get executed. 
+  
+11. Likewise, you can write your code using editor, save it with .py extension and then execute it using command prompt.
