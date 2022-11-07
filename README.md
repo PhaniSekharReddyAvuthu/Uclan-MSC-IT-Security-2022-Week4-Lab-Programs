@@ -6,7 +6,12 @@
 
 ![signin](https://user-images.githubusercontent.com/111919907/200288510-93f80b2f-efad-4ede-9e2f-5b6e5e5a4b20.png)
 
-2. As shown in the above image, click on sign in link located on the top right corner and it will take you to google sign in page, enter your google sign in details and sign in. 
+2. As shown in the above image, click on sign in link located at the top right corner and it will take you to google sign in page, enter your google sign in details and sign in. 
+3. After you sign in, you will be shown the following page
+
+![notebook](https://user-images.githubusercontent.com/111919907/200290050-0e429b01-eaad-4442-b467-fb6a059e7153.png)
+
+4. 
 
 
 ## Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
