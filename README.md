@@ -9,7 +9,7 @@
 
 3. Once the installation gets completed, create a folder for storing your python programs anywhere on the system.
 4. Open any text editor like notepad or code editor like notepad++ for writing your python code.
-5. Write your desired python code and save it in your created folder by naming it as **filename.py** and also make sure to select *all files* while saving if using notepad.
+5. Write your desired python code and save it in your created folder by naming it as **filename.py** and also make sure to select **all files** while saving if using notepad.
 
 ![folder](https://user-images.githubusercontent.com/111919907/200188167-a8321634-565e-421e-a1ce-1d4cd9cd10f2.png)
 
