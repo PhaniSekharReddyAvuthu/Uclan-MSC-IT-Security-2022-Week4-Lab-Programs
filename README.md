@@ -30,6 +30,9 @@
 9. Once after you hit enter, the program will get executed. 
   
 10. Likewise, you can write your code using editor, save it with .py extension in your working folder and then execute it using command prompt.
+  
+  
+  
 
 **Program 1 :**  
   
