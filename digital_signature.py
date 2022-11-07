@@ -22,4 +22,4 @@ hash = int.from_bytes(sha512(msg).digest(), byteorder='big')
 hashFromSignature = pow(signature, keyPair.e, keyPair.n)
 print("Signature valid (tampered):", hash == hashFromSignature)
 
-# We have see how to check if message is tampered but To verify if sender is correct, generate a new private key and sign with it and verify with old public key, it fails
+# We have seen how to check if message is tampered but To verify if sender is correct, generate a new private key and sign with it and verify with old public key, it fails
