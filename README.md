@@ -1,8 +1,7 @@
 # It-Security-Lab-Programs-Python
 
-## Installation Guide :
+## Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
 
- **Note : This installation guide is intended for windows users only** 
 
 1. First step is to download python and install it. Python can be directly downloaded from the following link https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe .
 2. After downloading the above file, install it and make sure the option **Add python.exe to PATH** is ticked as shown in the below screenshot while installing. 
