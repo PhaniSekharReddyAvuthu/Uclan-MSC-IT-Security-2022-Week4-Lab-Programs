@@ -1,5 +1,10 @@
 # It-Security-Lab-Programs-Python
 
+## Usage guide of Colab by Google ( can be used in labs easily ) :
+
+
+
+
 ## Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
 
 
