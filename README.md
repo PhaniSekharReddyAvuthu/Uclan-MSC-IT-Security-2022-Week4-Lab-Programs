@@ -1,6 +1,6 @@
 # It-Security-Lab-Programs-Python
 
-**Installation Guide :**
+## Installation Guide :
 
  **Note : This installation guide is intended for windows users only** 
 
@@ -32,7 +32,4 @@
 10. Likewise, you can write your code using editor, save it with .py extension in your working folder and then execute it using command prompt.
   
   
-  
-
-**Program 1 :**  
   
