@@ -43,6 +43,8 @@
 ![folder](https://user-images.githubusercontent.com/111919907/200296552-37a2760d-cd25-4b45-bdce-8ea86486814f.png)
 
 
+13. All the code needed for the tasks in lab sheet are available above in the code section of this page. 
+
 
 
 ## Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
