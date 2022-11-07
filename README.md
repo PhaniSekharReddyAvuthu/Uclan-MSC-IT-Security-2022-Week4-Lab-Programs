@@ -25,6 +25,20 @@
 
 7. The file (notebook) can be saved and can be used again later. This is how you run python code in google colab.
 
+8. Before you run the lab programs, you need to import the required library called **PyCryptodome** by using the following command in colab
+
+```
+!pip install PyCryptodome
+```
+ 9. After you write the above line of code and click run, it should show you the following output 
+
+![inst](https://user-images.githubusercontent.com/111919907/200293654-7e6600a4-4c3d-4891-97d0-fc2d6343885a.png)
+
+
+
+
+
+
 
 ## Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
 
