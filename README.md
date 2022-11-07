@@ -34,6 +34,10 @@
 
 ![inst](https://user-images.githubusercontent.com/111919907/200293654-7e6600a4-4c3d-4891-97d0-fc2d6343885a.png)
 
+10. Now you are ready to write the lab programs in the colab and execute them.
+
+11. Whenever you want a new block to write the code, just click **+code** located on the left side.
+
 
 
 
