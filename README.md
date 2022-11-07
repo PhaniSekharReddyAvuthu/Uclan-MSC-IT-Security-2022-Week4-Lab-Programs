@@ -1,6 +1,8 @@
 # It-Security-Lab-Programs-Python
 
-<header2> **This installation guide is intended for windows users only** </header2>
+**Installation Guide :**
+
+ **Note : This installation guide is intended for windows users only** 
 
 1. First step is to download python and install it. Python can be directly downloaded from the following link https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe .
 2. After downloading the above file, install it and make sure the option **Add python.exe to PATH** is ticked as shown in the below screenshot while installing. 
@@ -27,4 +29,4 @@
 
 9. Once after you hit enter, the program will get executed. 
   
-10. Likewise, you can write your code using editor, save it with .py extension and then execute it using command prompt.
+10. Likewise, you can write your code using editor, save it with .py extension in your working folder and then execute it using command prompt.
