@@ -1,6 +1,6 @@
 # It-Security-Lab-Programs-Python
 
-## Usage guide of Colab by Google ( can be used in labs easily ) :
+## Usage guide of Colab by Google ( recommended for use in labs ) :
 
 1. Go to the link https://colab.research.google.com/ and it will take you to the following page 
 
