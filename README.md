@@ -2,7 +2,11 @@
 
 ## Usage guide of Colab by Google ( can be used in labs easily ) :
 
+1. Go to the link https://colab.research.google.com/ and it will take you to the following page 
 
+![signin](https://user-images.githubusercontent.com/111919907/200288510-93f80b2f-efad-4ede-9e2f-5b6e5e5a4b20.png)
+
+2. As shown in the above image, click on sign in link located on the top right corner and it will take you to google sign in page, enter your google sign in details and sign in. 
 
 
 ## Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
