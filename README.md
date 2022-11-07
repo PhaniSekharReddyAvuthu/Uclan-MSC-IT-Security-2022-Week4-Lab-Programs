@@ -11,7 +11,19 @@
 
 ![notebook](https://user-images.githubusercontent.com/111919907/200290050-0e429b01-eaad-4442-b467-fb6a059e7153.png)
 
-4. 
+4. After clicking on the link **new notebook** you should be shown the following page 
+
+![code](https://user-images.githubusercontent.com/111919907/200290706-528a13b3-04d7-4900-af7e-e1edced03e3c.png)
+
+5. As marked in the above image, you can start writing your python code in the provided input box and click **run cell** button located to the left side of the input box.
+
+![run](https://user-images.githubusercontent.com/111919907/200291330-62d03d9b-16cd-4371-9495-431f8abbff46.png)
+
+6. After you click the run button, you should be shown the output at the end of the block as shown below.
+
+![output](https://user-images.githubusercontent.com/111919907/200291941-ca0ede2f-73f8-4ddd-9b12-d7a24af462be.png)
+
+7. The file (notebook) can be saved and can be used again later. This is how you run python code in google colab.
 
 
 ## Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
