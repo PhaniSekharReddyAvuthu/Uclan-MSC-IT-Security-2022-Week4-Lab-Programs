@@ -1,4 +1,4 @@
-## Advanced Topics in It Security Assignment 1 explaination
+## Advanced Topics in It Security Assignment 1 explanation
 
 I have been getting queries from fellow students regarding how to do the assignment and what actually need to be done in the assignment, So i thought of writing it in my words here as it might help all those who are still in a state of understanding. I assume many of us are from the background where there was no proper exposure to reading papers, literature review, doing reasearch, publishing. Even i am from the same background, but trying to understand as much as i can. I am writing my view here as it might help some. ( how to choose a topic is not the intention of this writing )
 
