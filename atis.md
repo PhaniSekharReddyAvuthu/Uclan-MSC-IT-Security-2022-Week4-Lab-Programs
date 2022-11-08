@@ -33,7 +33,7 @@ Later in 2019, assume a person named 'F' came up with more better algorithm to d
 Later in 2021, assume a person named 'G' came up with Machine learning to detect fraud websites. 
 
 
-Now , for suppose you in 2022, you selected this topic **Detecting fraud websites** to do a research, then what you need to first do is read the literature from the past ( A to G ) and see what they did , just write this in your own words as literature review. This is nothing but called as literature review. Then try to think what can you add to this to make the detection algorithm more better. This is what reasearch column of your assignment need to fulfill. You might have your own views to solve a problem.
+Now , for suppose you in 2022  selected this topic **Detecting fraud websites** to do a research, then what you need to first do is read the literature from the past ( A to G ) and see what they did , just write this in your own words as literature review. This is nothing but called as literature review. Then try to think what can you add to this to make the detection algorithm more better. This is what reasearch column of your assignment need to fulfill. You might have your own views to solve a problem.
 
 
 
