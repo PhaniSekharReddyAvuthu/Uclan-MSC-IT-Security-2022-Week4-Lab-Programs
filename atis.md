@@ -9,12 +9,14 @@ So our assignment is all about writing a  research paper on a particular topic r
 3. Try to understand what is being done like what are the problems being faced, what people are trying to solve and what is achieved so far and what are the limitations.
 4. Now try to think about what you can add to that research. Propose a solution which can fix problems more accurately than what is available now. The intention of this assignment is just to propose the better solution and support why it is better but not intended for developing the whole thing.
 5. The structure is already given in the brief, follow it.
-6. Lets see with an example so that we can understand it better.
+
+
+Lets see with an example so that we can understand it better.
 
 
 ### Example  - Detecting fraud websites 
 
-Lets assume that our topic is this. So what we are trying to solve here is about how  can we protect ourselves from fraud websites.
+Lets assume that our topic is this. So what we are trying to solve here is about how can we protect ourselves from fraud websites.
 
 lets assume this is the year 2000 instead of 2022 and assume problem arised in 2000
 
