@@ -1,6 +1,6 @@
 
 
-## Usage guide for Colab by Google ( recommended for use in labs ) :
+## Python Usage guide for Colab by Google ( recommended for use in labs ) :
 
 1. Go to the link https://colab.research.google.com/ and it will take you to the following page 
 
@@ -47,7 +47,7 @@
 
 
 
-## Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
+## Python Installation Guide for Windows Computers ( only for personal pc's as installation is not allowed in lab ) :
 
 
 1. First step is to download python and install it. Python can be directly downloaded from the following link https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe .
