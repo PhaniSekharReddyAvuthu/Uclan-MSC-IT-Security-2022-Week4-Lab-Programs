@@ -6,7 +6,7 @@ keyPair = RSA.generate(bits=1024)
 msg = b'A message for signing'
 from hashlib import sha512
 hash = int.from_bytes(sha512(msg).digest(), byteorder='big')
-signature = pow(hash, keyPair.d;, keyPair.n)
+signature = pow(hash, keyPair.d, keyPair.n)
 
 
 # RSA verify signature
